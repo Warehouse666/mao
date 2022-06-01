@@ -32,7 +32,8 @@
 "sites":[
 ## 01.🐼缝合接口
 ## --> spider 改 custom_spider.jar
-{"key":"csp_Cokemv","name":"🐼Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":""},{"key":"csp_DiDuan","name":"🐼低端影视(SP)","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_Cokemv","name":"🐼Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+{"key":"csp_DiDuan","name":"🐼低端影视(SP)","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_GitCafe","name":"🐼小纸条(SP)","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},{"key":"csp_xpath_libv","name":"Libvio(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/libv.json"},
 {"key":"csp_xpath_lib","name":"LIBVIO(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dlq.gmqd.com/txt/1648836451.txt"},{"key":"csp_xpath_","name":"libvo","type":3,"api":"csp_XPath","searchable":1,"searchable":1,"filterable":1,"ext":"http://dlq.gmqd.com/txt/1648882994.txt"},
 {"key":"csp_Zxzj","name":"🐼在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":""},{"key":"csp_CZSPP","name":"🐼厂长资源(SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
