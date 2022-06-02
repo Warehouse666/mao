@@ -13,14 +13,15 @@
 ## 03.🐱S接口
 //"spider":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/baikan.jar",
 //"spider":"https://ysn1983.coding.net/p/mao/d/1/git/raw/master/baikan.jar",
-  
+
+"spider":"https://ysn1983.coding.net/p/mao/d/1/git/raw/master/quan.jar",  
 //"spider":"https://ysn1983.coding.net/p/mao/d/1/git/raw/master/custom_spider213313.jar",
 //"spider":"https://ysn1983.coding.net/p/mao/d/1/git/raw/master/custom_spider.jar",
 //"spider":"img+https://gitee.com/hd2019/OneClickRun/raw/master/xpath/custom_spider_1651202998.bmp",
 //"spider":"https://ysn1983.coding.net/p/mao/d/1/git/raw/master/tangsan99999custom_spider.jar",
 //"spider": "https://ysn1983.coding.net/p/mao/d/1/git/raw/master/tangsan99999custom_spider3.jar",
 //"spider": "https://ysn1983.coding.net/p/mao/d/1/git/raw/master/xbiu.zip",
-"spider": "https://ysn1983.coding.net/p/mao/d/1/git/raw/master/sprider77.jar",
+//"spider": "https://ysn1983.coding.net/p/mao/d/1/git/raw/master/sprider77.jar",
 # 直播 (择一使用👇)
 ## 01.🦋直播
 ## --> spider 改 baikan.jar 或 custom_spider.jar
