@@ -355,6 +355,44 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/vipmv.json"
+    },{
+      "key": "csp_xpath_1080p",
+      "name": "1080电影(XP)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/1080.json"
+    },{
+      "key": "csp_xpath_ikan",
+      "name": "爱看(XP)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/ikan.json"
+    },
+    {
+      "key": "csp_xpath_miao",
+      "name": "喵喵(XP)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/miaomiao.json"
+    },
+    {
+      "key": "csp_xpath_dym8",
+      "name": "电影迷8(XP)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/dianyingmi8.json"
     },
 {"key":"csp_xpath_dmntv","name":"弹幕影院(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/dmntv.json"},
 {"key":"csp_xpath_saohuotv","name":"骚火电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/saohuotv2.json"},
