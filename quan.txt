@@ -211,6 +211,7 @@
 {"key":"csp_kmys","name":"酷猫影视(爬虫)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_ttsp","name":"天天视频(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/ttsp.json"},
 {"key":"csp_xpath_huohuo99","name":"火火影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/huohuo99.json"},
+{"key":"csp_xpath_hmtv","name":"花猫TV(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext": "https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/huamao.json"},
 {"key":"csp_xpath_qcys","name":"奇粹影视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/ikuwoo.json"},
 {"key":"csp_xpath_yanet1","name":"鸭奈飞1(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dlq.gmqd.com/txt/1649161696.txt"},
 {"key":"csp_xpath_yanet2","name":"鸭奈飞2(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dlq.gmqd.com/txt/1650745261.txt"},
@@ -234,6 +235,24 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/Auete1.json"
+    },{
+      "key": "csp_xpath_unss",
+      "name": "九洲影视(XPMF)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/jiuzhou.json"
+    },{
+      "key": "csp_xpath_chen",
+      "name": "尘落(优XP)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/chenluo.json"
     },
     {
       "key": "csp_xpath_huah",
@@ -300,6 +319,16 @@
     "filterable": 1,
     "ext": "https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/dashixiong.txt"
 },
+{
+      "key": "csp_xpath_zjdr",
+      "name": "追剧达人(XP)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/vipmv.json"
+    },
 {"key":"csp_xpath_dmntv","name":"弹幕影院(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/dmntv.json"},
 {"key":"csp_xpath_saohuotv","name":"骚火电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/saohuotv2.json"},
 {"key":"csp_xpath_pianba","name":"片吧影院(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/pianba.json"},
@@ -984,6 +1013,26 @@
 {"key":"csp_appysv2_5秒看电影","name":"5秒看电影(普)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.5skan.com/mogai_api.php/v1.vod"},
 {"key":"csp_appysv2_69美剧","name":"69美剧(普)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/api.php/v1.vod"},
 {"key":"csp_appysv2_1080KK","name":"1080KK(普)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://123.250idc.com/mogai_api.php/v1.vod"},
+{
+      "key": "csp_appysv2_9e国语",
+      "name": "9E国语",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://vod.9e03.com/lvdou_api.php/v1.vod"
+    },   
+    {
+      "key": "csp_appysv2_金叶影院",
+      "name": "金叶影院(M2)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://r.zjj.life:88/mv/api.php/Chengcheng/vod"
+    },
 #
 #神马
 {"key":"csp_appysv2_影视阁","name":"影视阁(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://216.98.10.85/api.php/iptv/vod/"},
