@@ -1258,7 +1258,17 @@
 // https://github.com/catvod/CatVodTVSpider
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
 //以下为1-8限
-{"key": "*佳丽资源","name": "*佳丽资源","type": 0,"api": "https://api.jializyzapi.com/inc/api.php"},
+{
+      "key": "csp_xpath_xxj",
+      "name": "新香蕉(XP)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/2024xxj.json"
+    },
+    {"key": "*佳丽资源","name": "*佳丽资源","type": 0,"api": "https://api.jializyzapi.com/inc/api.php"},
 {"key": "*晓峰影视","name": "*晓峰影视","type": 0,"api": "http://api.xxcr.tk/api.php/provide/vod/at/xml"},{"key":"银龙(限成年)","name":"银龙(限成年)","type":0,"api":"https://yinlong.tv/api.php/provide/vod/at/xml","playUrl":""},
 {"key":"工厂(限成年)","name":"工厂(限成年)","type":0,"api":"https://www.016caiji.com/home/cjapi/7cbbc409ec990f19c78c75bd1e06f215/vod/xml","playUrl":""},
 {"key":"探探(限成年)","name":"探探(限成年)","type":0,"api":"https://apittzy.com/api.php/seacms/vod","playUrl":""},
