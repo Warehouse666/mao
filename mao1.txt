@@ -387,9 +387,17 @@
 //以下直播列表
 "lives": [
 //proxy加载列表
-//{"group":"redirect","channels":[
-//{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZqMzY1Lm1sLzAvdHYudHh0"]}
-//]}
+{
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "redirect",
+          "urls": [
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly90YW5nc2FuOTk5OTkuZ2l0aHViLmlvL2xpdmUvTXR2LnR4dA=="
+          ]
+        }
+      ]
+    }
 
 ],
 //解X设置
