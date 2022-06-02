@@ -9,6 +9,7 @@
 ## 02.🐉明接口
 //"spider":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/xm.jar",
 //"spider":"https://ysn1983.coding.net/p/mao/d/1/git/raw/master/xm.jar",
+//"spider":"https://ysn1983.coding.net/p/mao/d/1/git/raw/master/xm1.jar",
 ## 03.🐱S接口
 //"spider":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/baikan.jar",
 //"spider":"https://ysn1983.coding.net/p/mao/d/1/git/raw/master/baikan.jar",
