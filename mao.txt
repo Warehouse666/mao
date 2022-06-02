@@ -52,7 +52,7 @@
 {"key":"csp_xpath_Hdmoli","name":"🐼Hdmoli(XPF)","type":3,"api":"csp_XPathHdmoli","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/hdmoli.json"},
 {"key":"csp_xpath_egg","name":"🐼蛋蛋(XPF)","type":3,"api":"csp_XPathEgg","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/dandan.json"},
 {"key":"csp_xpath_Gaze","name":"🐼注视(XPF)","type":3,"api":"csp_XPathGaze","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/gaze.json"},
-{"key":"ddrk_type4","name":"DDRK(T4)","type":4,"api":"https://cat.mcuke.top/sp/7d8c8213/3848126344","searchable":1,"quickSearch":0,"filterable":1},
+
 ## 02.🐉明接口
 ## --> spider 改 xm.jar, (XPath系列 不可用, APP影视规则 不可用, 资源网采集 可用)
 ## --> 直播 改 "02.🦋直播"
