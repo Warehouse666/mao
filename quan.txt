@@ -308,6 +308,15 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/qiyou.json"
+    },{
+      "key": "csp_xpath_netf",
+      "name": "网飞(XP)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/netflix.json"
     },
 {
       "key": "csp_xpath_aidi1",
