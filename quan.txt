@@ -853,6 +853,8 @@
       "ext": "https://ysn1983.coding.net/p/mao2/d/biubiu/git/raw/master/lezhutv.json"
     },
 
+{"api":"csp_AppYsV2","ext":"http://jf.35ys.cc/lehailb_api.php/v1.vod","key":"csp_每天影视","filterable":1,"name":"每天影视","type":3},
+    {"api":"csp_AppYsV2","ext":"https://ys.ling00.cn/api.php/v1.vod","key":"csp_领克影视","filterable":1,"name":"领克影视(优质)","type":3},
 {"key":"mbomovie","name":"mbomovie","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml","playUrl":"","categories":[]},
 {"key":"千寻时光","name":"千寻时光","type":1,"api":"http://wy.dqyhg.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
 {"key":"闪电资源","name":"闪电资源","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
