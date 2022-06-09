@@ -603,6 +603,7 @@
     "quickSearch": 0,
     "filterable": 1
   },
+  {"key":"csp_Imaple","name":"枫林网(SP)","type":3,"api":"csp_Imaple","searchable":1,"quickSearch":1,"filterable":1},
       {
     "key": "csp_Enlienli",
     "name": "嗯哩嗯哩(爬虫)",
