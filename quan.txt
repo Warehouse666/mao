@@ -342,6 +342,7 @@
 {"key":"Jumi","name":"剧迷TV(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/Jumi.json"},
 {"key":"csp_xpath_dxdx","name":"滴嘻滴嘻(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/dixidixi.json"},
 {"key":"csp_xpath_mboy","name":"MBO影视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/mbomovice.json"},
+{"key":"csp_xpath_xfeiji","name":"小小影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/xfeiji.json"},
 {"key":"sogou_spider","name":"搜狗影视(官源SP)","type":3,"api":"csp_YSSogou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/sogou.json"},
 {"key":"csp_xpath_91","name":"片吧(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dlq.gmqd.com/txt/1649279501.txt"},
 {"key":"csp_xpath_好护","name":"剧荒聚居(XP)","type":3,"api":"csp_XPath","searchable":1,"searchable":1,"filterable":1,"ext":"http://dlq.gmqd.com/txt/1650274045.txt"},
