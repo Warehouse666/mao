@@ -220,6 +220,7 @@
 {"key":"csp_xpath_huohuo99","name":"火火影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/huohuo99.json"},
 {"key":"csp_xpath_hmtv","name":"花猫TV(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext": "https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/huamao.json"},
 {"key":"csp_xpath_qcys","name":"奇粹影视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/ikuwoo.json"},
+{"key":"csp_xpath_bttwoo","name":"两个BT(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/bttwoo.json"},
 {"key":"csp_xpath_yanet1","name":"鸭奈飞1(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dlq.gmqd.com/txt/1649161696.txt"},
 {"key":"csp_xpath_yanet2","name":"鸭奈飞2(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dlq.gmqd.com/txt/1650745261.txt"},
 {"key":"csp_xpath_yanetflix","name":"鸭奈飞(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/yanet.json"},
