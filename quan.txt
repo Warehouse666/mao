@@ -362,6 +362,7 @@
 {"key":"csp_xpath_jbb","name":"剧白白(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/jubaibai.json"},
 {"key":"csp_xpath_lranc1","name":"天天影视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dlq.gmqd.com/txt/1649184789.txt"},
 {"key":"csp_xpath_lranc2","name":"天天影视(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/lranc.json"},
+{"key":"csp_xpath_xxys520","name":"小熊影视(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/xxys520.json"},
 {"key":"csp_xpath_348z1","name":"348电影(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/348z.json"},
 {"key":"csp_xpath_348z2","name":"348电影(XPMac)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/348z.txt"},
 {"key":"csp_xpath_dandanzan10","name":"蛋蛋赞(电影)(XPF)","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/dandanzan10.json"},
