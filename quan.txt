@@ -257,6 +257,25 @@
       "quickSearch": 1,
       "filterable": 1
     },{
+
+      "key": "csp_xpath_tegou",
+
+      "name": "特狗影视",
+
+      "type": 3,
+
+      "api": "csp_XPath",
+
+      "searchable": 1,
+
+      "quickSearch": 1,
+
+      "filterable": 0,
+
+      "ext": "https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/tete.json"
+
+    },
+{
       "key": "csp_xpath_9egy",
       "name": "9E国语(XP)",
       "type": 3,
