@@ -197,7 +197,7 @@
 {"key":"csp_biubiu_打驴动漫","name":"🥒打驴动漫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ysn1983.coding.net/p/mao2/d/biubiu/git/raw/master/打驴动漫.json"},
 {"key":"csp_biubiu_维奇动漫","name":"🥒维奇动漫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ysn1983.coding.net/p/mao2/d/biubiu/git/raw/master/维奇动漫.json"},
 
-{
+//{
       "key": "csp_xpath_cokemv1",
       "name": "Cokemv",
       "type": 3,
