@@ -197,16 +197,14 @@
 {"key":"csp_biubiu_打驴动漫","name":"🥒打驴动漫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ysn1983.coding.net/p/mao2/d/biubiu/git/raw/master/打驴动漫.json"},
 {"key":"csp_biubiu_维奇动漫","name":"🥒维奇动漫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ysn1983.coding.net/p/mao2/d/biubiu/git/raw/master/维奇动漫.json"},
 
-//{
-     // "key": "csp_xpath_cokemv1",
+//{"key": "csp_xpath_cokemv1",
     //  "name": "Cokemv",
      // "type": 3,
      // "api": "csp_XPathMacFilter",
     //  "searchable": 1,
     //  "quickSearch": 1,
     //  "filterable": 1,
-    //  "ext": "http://dlq.gmqd.com/txt/1649208923.txt"
-//},
+    //  "ext": "http://dlq.gmqd.com/txt/1649208923.txt"},
 //{"key":"csp_xpath_cokemv2","name":"Cokemv(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/cokemv.json"},
 //{"key":"csp_xpath_cerrd","name":"真不卡影院(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/cerrd.json"},
 {"key":"csp_xpath_zxzj2","name":"在线之家(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/zxzj2.json"},
