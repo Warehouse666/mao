@@ -208,7 +208,7 @@
       "ext": "http://dlq.gmqd.com/txt/1649208923.txt"
 },
 //{"key":"csp_xpath_cokemv2","name":"Cokemv(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/cokemv.json"},
-{"key":"csp_xpath_cerrd","name":"真不卡影院(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/cerrd.json"},
+//{"key":"csp_xpath_cerrd","name":"真不卡影院(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/cerrd.json"},
 {"key":"csp_xpath_zxzj2","name":"在线之家(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ysn1983.coding.net/p/mao1/d/123/git/raw/master/zxzj2.json"},
 {"key":"csp_xpath_5","name":"在线之家","type":3,"api":"csp_XPath","searchable":1,"searchable":1,"filterable":1,"ext":"http://dlq.gmqd.com/txt/1649153241.txt"},
 {"key":"csp_xpath_czspp","name":"厂长资源(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://dlq.gmqd.com/txt/1649542341.txt"},
