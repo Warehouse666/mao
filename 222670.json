@@ -1,0 +1,29 @@
+﻿[
+        {
+            "name": "电视直播",
+            "type": 0,
+            "url": "http://127.0.0.1:9978/file/YS/live.txt"
+            
+        },
+        {
+            "name": "TTZB",
+            "type": 0,
+            "url": "http://127.0.0.1:9978/file/YS/TTZB.txt"
+        },
+        {
+            "name": "电视剧",
+            "type": 0,
+            "url": "https://agit.ai/weigs/w/raw/branch/master/json/电视剧.txt"
+        },
+        
+        {
+            "name": "磁力电影",
+            "type": 0,
+            "url": "https://wds.ecsxs.com/225468.txt"
+        },
+        {
+            "name": "系列",
+            "type": 0,
+            "url": "https://agit.ai/weigs/w/raw/branch/master/json/crxl.txt"
+        }
+]
